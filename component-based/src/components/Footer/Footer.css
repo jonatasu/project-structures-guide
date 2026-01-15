@@ -1,0 +1,15 @@
+/* Footer Component Styles */
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.footer__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: center;
+}
