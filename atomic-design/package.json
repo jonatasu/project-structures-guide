@@ -1,0 +1,22 @@
+{
+  "name": "atomic-design-structure",
+  "version": "1.0.0",
+  "description": "Example of an atomic design project structure",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@storybook/react": "^7.0.0",
+    "@storybook/addon-essentials": "^7.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
